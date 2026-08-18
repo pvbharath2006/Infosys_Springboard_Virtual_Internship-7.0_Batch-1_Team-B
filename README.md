@@ -36,9 +36,7 @@ README.md
 └── Project documentation
 ```
 
-> **Note:** If the actual filenames in the repository differ, the corresponding files can be renamed while keeping the same project structure.
 
----
 
 ## 🚀 Key Features
 
